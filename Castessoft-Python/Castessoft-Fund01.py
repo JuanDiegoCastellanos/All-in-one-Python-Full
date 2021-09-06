@@ -11,8 +11,8 @@ print(id(name))
 print("------")
 print("tipo de dato")
 print(type(name))
-# Agregar hints o pistas de que tipo deben ser las variables
 
+# Agregar hints o pistas de que tipo deben ser las variables
 last_name: str = "Castellanos Jerez"
 print(last_name)
 
