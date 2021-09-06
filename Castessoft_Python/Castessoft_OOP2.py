@@ -17,6 +17,9 @@
 # person0 = Person('Juan','Castellanos',21,3223067599,'calle 10-No 10-74',62.5,1.72, correo='juan.castellanosj@usantoto.edu.co',profesion='Ingenieria de Sistemas')
 # print(f'Los detalles de la persona son: {person0.show_details()}')
 
+"""
+Encapsulamiento 
+"""
 class Person:
 
     def __init__(self, name, last_name, age):
